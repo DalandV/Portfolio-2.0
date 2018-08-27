@@ -1,0 +1,14 @@
+#about-me-row {
+    border-bottom: 1px solid grey
+}
+.personal-links {
+    border-right: 1px solid grey
+}
+/* #portfolio-row {
+    margin-left: 213.3px;
+    margin-right: 213.3px;
+} */
+.portfolio-images {
+    width: 250px;
+    margin-bottom: 10px;
+}
